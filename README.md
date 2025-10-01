@@ -1,4 +1,4 @@
-# Ahana Chatbot - Complete Development Roadmap
+# Bodhi Chatbot - Complete Development Roadmap
 
 ## 🎯 Project Overview
 Enterprise-level AI chatbot with advanced features including voice interaction, file processing, code generation, and document analysis using MERN stack and Gemini 2.0 Flash API.
@@ -49,7 +49,7 @@ Enterprise-level AI chatbot with advanced features including voice interaction, 
 - [ ] 2.1.6 Implement real-time messaging with Socket.io
 
 #### **Phase 2.2: Purple Theme UI Implementation**
-- [ ] 2.2.1 Create purple gradient header with Ahana branding
+- [ ] 2.2.1 Create purple gradient header with Bodhi branding
 - [ ] 2.2.2 Style message bubbles (purple user, gray bot)
 - [ ] 2.2.3 Design input area with icons
 - [ ] 2.2.4 Add moon icon and branding elements
@@ -207,7 +207,7 @@ Enterprise-level AI chatbot with advanced features including voice interaction, 
 
 ## 📁 Project Structure
 ```
-ahana-chatbot/
+bodhi-chatbot/
 ├── backend/
 │   ├── config/
 │   ├── controllers/
